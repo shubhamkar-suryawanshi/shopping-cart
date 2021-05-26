@@ -1,0 +1,23 @@
+body{
+    width: 15%;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 5%;
+    padding: 5%;
+}
+
+button{
+    margin-left: 25%;
+}
+
+.col-sm-5{
+    width: 40%;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 5%;
+    padding: 5%;
+}
+
+table, th, tr{
+    border: 1px solid brown;
+}
